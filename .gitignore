@@ -1,0 +1,13 @@
+bin/
+obj/
+.vs/
+*.user
+dist/
+logs/
+docs/raw*/
+commit-msg.txt
+push.bat
+diag.bat
+emu-logcat.txt
+*.log
+git.bat

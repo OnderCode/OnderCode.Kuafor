@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Kuafor.Core/Kuafor.Core.csproj" />
+    <Project Path="src/Kuafor.App/Kuafor.App.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Kuafor.Tests/Kuafor.Tests.csproj" />
+  </Folder>
+</Solution>
